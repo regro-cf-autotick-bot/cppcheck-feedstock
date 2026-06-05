@@ -51,8 +51,8 @@ about:
   license: GPL-3.0-or-later
   license_file: COPYING
   summary: A static analysis tool for C/C++ code.
-  homepage: http://cppcheck.sourceforge.net/
-  repository: https://github.com/danmar/cppcheck
+  homepage: http://cppcheck.sourceforge.io/
+  repository: https://github.com/cppcheck-opensource/cppcheck
 
 extra:
   recipe-maintainers:
